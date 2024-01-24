@@ -1,1 +1,19 @@
+[2024/01/23]
+#1 wordpress install
 https://www.hostinger.com/tutorials/run-docker-wordpress
+
+#2 github
+    1)git init
+        -> permission denied
+        -> wordpress folder chown change
+    2) git push -u origin main
+        -> authentification failed
+        -> generate new open-ssh key to ssh_rsa.pub
+        -> open ssh key register to github.com
+
+[2024/01/24] 
+# wordpress study day 2
+# http://localhost:8000/wp-admin/
+# http://localhost:8080
+
+
