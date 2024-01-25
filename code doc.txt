@@ -16,4 +16,6 @@ https://www.hostinger.com/tutorials/run-docker-wordpress
 # http://localhost:8000/wp-admin/
 # http://localhost:8080
 
-
+[2024/01/25]
+# wordpress study day 3
+    -> watched youtube video
