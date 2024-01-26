@@ -19,3 +19,8 @@ https://www.hostinger.com/tutorials/run-docker-wordpress
 [2024/01/25]
 # wordpress study day 3
     -> watched youtube video
+
+[2024/01/26]
+# wordpress study day 4
+# plugin issue
+    -> I need valid FTP connection to install plugin
