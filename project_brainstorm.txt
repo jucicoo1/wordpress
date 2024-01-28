@@ -1,0 +1,38 @@
+[DB schema]
+
+User    -   User
+        -   user_admin
+        -   user_army_list
+        -   user_army_list_detail
+        -   user_battle_report
+
+Game    -   game_list
+        -   game_rules
+        -   game_rules_by_faction
+        -   game_keyword
+
+Army    -   faction
+        -   sub_faction
+        -   data_sheet
+
+Report  -   battle
+        -   battle_rounds
+        -   battle_rounds_detail
+        -   battle_rounds_combat
+        -   battle_rounds_combat_detail
+
+
+
+
+
+[pages]
+
+Home            -   Home
+
+BattleReport    -   BattleReport
+
+ArmyList
+
+About Us        -   About Us
+                -   Patch Note
+                -   
