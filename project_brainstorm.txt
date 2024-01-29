@@ -46,15 +46,16 @@ About Us        -   About Us
 1. unit detail database design
     - wargear options
     - individual unit's talent (e.g. death company, tycho)
-
+2. some faction's codex is no longer available on internet
 
 [work order]
 1. login
 2. army builder(basic)
 3. battle report
 4. patch note
-5. grid system
-2. army builder(detail)
+5. battle location API
+6. grid system
+7. army builder(detail)
 
 # imperial armour
 # combat patrol
@@ -62,4 +63,12 @@ About Us        -   About Us
 
 
 
-[SQL]
+[work progress]
+1. db schema draft complete
+2. db insert sql 
+        - games
+        - factions
+        - faction detachment
+
+
+
