@@ -1,6 +1,6 @@
 [reference]
 https://wahapedia.ru/wh40k10ed/the-rules/matched-play/
-
+https://www.warhammer-community.com/warhammer-40000-downloads/
 
 
 
@@ -42,15 +42,23 @@ About Us        -   About Us
                 -   Patch Note
                 -   
 
+[issue]
+1. unit detail database design
+    - wargear options
+    - individual unit's talent (e.g. death company, tycho)
 
 
 [work order]
 1. login
-2. army builder
+2. army builder(basic)
 3. battle report
 4. patch note
 5. grid system
+2. army builder(detail)
 
+# imperial armour
+# combat patrol
+# legends
 
 
 
