@@ -50,13 +50,17 @@ About Us        -   About Us
 
 [work order]
 1. login
-2. army builder(basic)
-3. battle report
 4. patch note
+2. army builder(basic)  <- unit list, leader formation, points, enhancements, warlords
+3. battle report(basic I) <- total score, result, player names, army list <- 'battle' table related
+5. army list invitation
+3. battle report(basic II)      <- 'battle rounds' table related
+7. army builder(detail)
 5. battle location API
 6. grid system
-7. army builder(detail)
 
+
+[long term goal]
 # imperial armour
 # combat patrol
 # legends
