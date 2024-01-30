@@ -56,9 +56,9 @@ About Us        -   About Us
 - unit keywords
 - weapon keywords
 - base data_sheet
-        - space marine
-        - chaos knights
-        - imperial knights
+        - space marine (done)
+        - chaos knights (done)
+        - imperial knights (done)
         - world eaters
 
 
