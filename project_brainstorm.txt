@@ -47,17 +47,29 @@ About Us        -   About Us
     - wargear options
     - individual unit's talent (e.g. death company, tycho)
 2. some faction's codex is no longer available on internet
+3. battle_deployment
+
+
+
 
 [work order]
 1. login
-4. patch note
-2. army builder(basic)  <- unit list, leader formation, points, enhancements, warlords
-3. battle report(basic I) <- total score, result, player names, army list <- 'battle' table related
+2. patch note
+3. bug report
+3. army builder(basic)  <- unit list, leader formation, points, enhancements, warlords
+4. battle report(basic I) <- total score, result, player names, army list <- 'battle' table related
+6. battle report(basic II)      <- temporary army list function
 5. army list invitation
-3. battle report(basic II)      <- 'battle rounds' table related
+6. battle report(basic III)     <- 'battle rounds' table related
 7. army builder(detail)
-5. battle location API
-6. grid system
+6. battle report(detail I)      <- 'battle rounds combat' table related
+9. subscription system
+#### kick starter ??
+8. battle location API
+10. statistic page
+6. battle report(detail II)     <- Army tracker system
+6. battle report(detail III)    <- Grid system
+
 
 
 [long term goal]
