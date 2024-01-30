@@ -87,6 +87,8 @@ About Us        -   About Us
         - faction detachment
 3. db import cvs file
         - faction units
-
+        - data_sheet
+        - weapons
+        - keywords
 
 
