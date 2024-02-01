@@ -52,14 +52,18 @@ About Us        -   About Us
 
 
 [CVS file]
-- faction unit
-- unit keywords
-- weapon keywords
+- faction unit  (processing)
+- unit keywords (processing)
+- weapon keywords (processing)
 - base data_sheet
         - space marine (done)
         - chaos knights (done)
         - imperial knights (done)
-        - world eaters
+        - world eaters (processing)
+- primary mission
+- deployment
+- 
+
 
 
 [work order]
