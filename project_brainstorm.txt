@@ -46,6 +46,7 @@ About Us        -   About Us
 1. unit detail database design
     - wargear options
     - individual unit's talent (e.g. death company, tycho)
+        -> add ability keyword table ?
 2. some faction's codex is no longer available on internet
 3. battle_deployment
 
