@@ -4,6 +4,14 @@ https://www.warhammer-community.com/warhammer-40000-downloads/
 
 
 
+
+[2024/02/06]
+1. bug report page add
+2. drop down menu add
+3. rearrange menu
+# lost all custom html code by overwriting theme
+
+
 [DB schema]
 
 User    -   User
