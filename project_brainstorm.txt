@@ -67,7 +67,7 @@ About Us        -   About Us
 
 
 [work order]
-1. login
+1. login(processing)
 2. patch note
 3. bug report
 3. army builder(basic)  <- unit list, leader formation, points, enhancements, warlords
@@ -105,4 +105,11 @@ About Us        -   About Us
         - weapons
         - keywords
 
-$$$ researching which hosting service to purchase
+
+
+[Front end work]
+1. army list page
+        - faction choice swiper (done)
+        - point buttons (done)
+        - detachment selectors 
+
