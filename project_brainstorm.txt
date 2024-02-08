@@ -11,18 +11,36 @@ https://developer.wordpress.org/reference/classes/wpdb/
 2. drop down menu add (done)
         - specify each pages (e.g. army list)
 3. rearrange menu (done)
+
 # lost all custom html code by overwriting theme
-
-[2024/02/07]
-1. army roster page.
-2. <form> tag on new army page and action function add to function.php
-3. disable swiper after selection and make cancel button 
-4. scroll move to detachment after faction selection
-
 ## custom swiper script wasn't working.
         -> SG Speed optimizer was blocking swiper and custom js file.
         -> Exclude from JavaScript Minification
         -> add custom files as exclude;
+
+[2024/02/07]
+1. army roster page.(created and working on it)
+2. <form> tag on new army page and action function add to function.php (tomorrow)
+3. disable swiper after selection and make cancel button (later)
+4. scroll move to detachment after faction selection (later)
+5. first patch note/dev diary (done)
+
+# in case of renew of model in same edition I can surfix '_renewed' for unit mode image and add search condition
+
+
+[2024/02/08]
+1. add edition, balance to army list page, army roster page. 
+2. add <form> tag on new army page and add submit action  to function.php
+3. selected units overlay list on unit roster page
+
+
+[work to do later]
+- disable swiper after selection and make cancel button (later)
+- scroll move to detachment after faction selection
+- add temporary save function to unit roster page
+
+
+
 
 
 [DB schema]
