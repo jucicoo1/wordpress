@@ -33,12 +33,14 @@ https://developer.wordpress.org/reference/classes/wpdb/
 2. add <form> tag on new army page and add submit action  to function.php
 3. selected units overlay list on unit roster page
 
+# Added SSL enforcer
+## fixed login page (was not loading user registry url)
 
 [work to do later]
 - disable swiper after selection and make cancel button (later)
 - scroll move to detachment after faction selection
 - add temporary save function to unit roster page
-
+- my account page layout
 
 
 
