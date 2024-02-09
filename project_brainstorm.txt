@@ -39,15 +39,23 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 ### when you use $wpdb->get_row, if you don't define data type to ARRAY_A it will cause error
 
 
+[2024/02/09]
+1. add missions and deplyment to DB
+2. make select tag by loading data from db
+3. add search user and user's army list
+4. make unit select function on 'unit roster' page (maybe tomorrow)
+5. make toggle down box for combat under rounds summury
+6. make toggle down box for stratagem under rounds summury
+7. put units on user's army list on top of select box (maybe tomorrow)
 
 
 
 [work to do later]
-- disable swiper after selection
+- disable swiper after selection (done)
 - scroll move to detachment after faction selection
 - add temporary save function to unit roster page
 - my account page layout
-= make cancel button on new army page
+- make cancel button on new army page
 
 
 
