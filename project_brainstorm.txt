@@ -2,7 +2,7 @@
 https://wahapedia.ru/wh40k10ed/the-rules/matched-play/
 https://www.warhammer-community.com/warhammer-40000-downloads/
 https://developer.wordpress.org/reference/classes/wpdb/
-
+https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php-file
 
 
 
@@ -29,18 +29,25 @@ https://developer.wordpress.org/reference/classes/wpdb/
 
 
 [2024/02/08]
-1. add edition, balance to army list page, army roster page. 
-2. add <form> tag on new army page and add submit action  to function.php
-3. selected units overlay list on unit roster page
+1. add edition, balance to army list page, army roster page.  (done)
+2. add <form> tag on new army page and add submit action  to function.php (done)
+3. make first db insert function (done)
+4. selected units overlay list on unit roster page
 
 # Added SSL enforcer
 ## fixed login page (was not loading user registry url)
+### when you use $wpdb->get_row, if you don't define data type to ARRAY_A it will cause error
+
+
+
+
 
 [work to do later]
-- disable swiper after selection and make cancel button (later)
+- disable swiper after selection
 - scroll move to detachment after faction selection
 - add temporary save function to unit roster page
 - my account page layout
+= make cancel button on new army page
 
 
 
