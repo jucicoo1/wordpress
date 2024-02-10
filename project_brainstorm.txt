@@ -44,13 +44,16 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 2. make select tag by loading data from db (done)
 3. add search user and user's army list (done)
 4. make unit select function on 'unit roster' page (maybe tomorrow)
-5. make toggle down box for combat under rounds summury 
+5. make toggle down box for combat under rounds summury (done)
 6. make toggle down box for stratagem under rounds summury (done)
 7. put units on user's army list on top of select box (maybe tomorrow)
 
 
 [2024/02/10]
 1. make unit select function on 'unit roster' page
+2. make total score section auto calculate and add self edit button
+3. make rows until R5
+4. Fix login/logout redirect 
 
 
 
