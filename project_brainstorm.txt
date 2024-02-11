@@ -50,13 +50,27 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 
 [2024/02/10]
+1. make unit select function on 'unit roster' page (next week)
+2. make total score section auto calculate and add self edit button
+3. make rows until R5
+4. Fix login/logout redirect (done)
+5. attacking unit, target unit load (done)
+6. weapon profile loading function (done)
+
+# gave up making menu text from login to logout automatically. Instead made login required function for pages needed
+## keep forgetting wp-db query puts array under array
+
+
+
+[2024/02/12]
 1. make unit select function on 'unit roster' page
 2. make total score section auto calculate and add self edit button
 3. make rows until R5
-4. Fix login/logout redirect 
+4. attacker unit, target unit loading logic fix
 
-
-
+[priority]
+@ simple, normal, advanced version of battle record form
+@ mission rule apply logic
 
 
 [work to do later]
