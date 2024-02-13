@@ -63,7 +63,7 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 
 [2024/02/12]
-1. make unit select function on 'unit roster' page
+1. make unit select function on 'unit roster' page (done)
 2. make total score section auto calculate and add self edit button (tomorrow)
 3. make rows until R5 (done)
 4. attacker unit, target unit loading logic fix (later)
@@ -71,12 +71,16 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 [2024/02/13]
 1. make total score section auto calculate and add self edit button
+2. Put army list builder logic
+3. Add selected unit count function
+4. submit to datasheet_detail table function
 
 
 
 [priority]
 @ simple, normal, advanced version of battle record form (done)
 @ mission rule(secondary, primary) apply logic
+@ 'about this website' page
 
 
 [work to do later]
@@ -86,7 +90,7 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 - my account page layout
 - make cancel button on new army page
 - mistake proof mission applying
-- move total score input to center
+- move total score input to center (done)
 - private battle record function
 
 
