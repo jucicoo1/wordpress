@@ -70,12 +70,13 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 
 [2024/02/13]
-1. make total score section auto calculate and add self edit button
-2. Put army list builder logic
-3. Add selected unit count function
+1. make total score section auto calculate (done)
+2. Put army list builder logic (done)
+3. Add selected unit count function (done)
 4. submit to datasheet_detail table function
 
-
+# DISTINCT keyword in SQL eliminates all duplicate records from the result returned by the SQL query
+## Able, Baker, Charlie, Dog, Easy, Fox
 
 [priority]
 @ simple, normal, advanced version of battle record form (done)
@@ -92,8 +93,8 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 - mistake proof mission applying
 - move total score input to center (done)
 - private battle record function
-
-
+- add self edit button to total score sction
+- add search button for unit roster
 
 
 [DB schema]
