@@ -73,10 +73,25 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 1. make total score section auto calculate (done)
 2. Put army list builder logic (done)
 3. Add selected unit count function (done)
-4. submit to datasheet_detail table function
+4. submit to user_army_list table function (done)
 
 # DISTINCT keyword in SQL eliminates all duplicate records from the result returned by the SQL query
 ## Able, Baker, Charlie, Dog, Easy, Fox
+
+
+[2024/02/14]
+1. BattleReport submit function
+2. minus logic fix (tomorrow)
+3. user army select box hide (done)
+4. unit roster 'leader' td hover css (done)
+5. battle page mobile optimize (futher planning required)
+
+
+[2024/02/15]
+1. leader - enhancements, warlords select function
+2. leader - bodyguard select function
+3. squad - unit composition select function
+
 
 [priority]
 @ simple, normal, advanced version of battle record form (done)
@@ -87,7 +102,7 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 [work to do later]
 - disable swiper after selection (done)
 - scroll move to detachment after faction selection
-- add temporary save function to unit roster page
+- add temporary save function to unit roster page (cancel)
 - my account page layout
 - make cancel button on new army page
 - mistake proof mission applying
