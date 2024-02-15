@@ -80,7 +80,7 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 
 [2024/02/14]
-1. BattleReport submit function
+1. BattleReport submit function (pause)
 2. minus logic fix (tomorrow)
 3. user army select box hide (done)
 4. unit roster 'leader' td hover css (done)
@@ -91,6 +91,11 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 1. leader - enhancements, warlords select function
 2. leader - bodyguard select function
 3. squad - unit composition select function
+
+
+[2024/02/16]
+1. secondary mission move to normal format (?)
+2. BattleReport submit function
 
 
 [priority]
