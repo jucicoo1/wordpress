@@ -96,6 +96,7 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 [2024/02/16]
 1. secondary mission move to normal format (?)
 2. BattleReport submit function
+3. user army list page (done)
 
 
 [priority]
