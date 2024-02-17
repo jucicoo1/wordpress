@@ -86,6 +86,8 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 4. unit roster 'leader' td hover css (done)
 5. battle page mobile optimize (futher planning required)
 
+# If button tag is inside of form tag, no matter how to set it, it submits data
+
 
 [2024/02/15]
 1. leader - enhancements, warlords select function
@@ -95,8 +97,17 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 [2024/02/16]
 1. secondary mission move to normal format (?)
-2. BattleReport submit function
+2. BattleReport submit function (basic) (done)
 3. user army list page (done)
+
+
+[2024/02/17]
+1. battle report view page (done)
+2. study mission rule 
+3. decide how to desolve rounds data on view page
+
+# do_action dosen't work on child page's preview page
+
 
 
 [priority]
