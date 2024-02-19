@@ -114,6 +114,9 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 2. leader - bodyguard select function
 3. squad - unit composition select function
 
+# document load funcs are not able to access elements generated after page load.
+
+
 
 
 [priority]
