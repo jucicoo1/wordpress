@@ -109,6 +109,12 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 # do_action dosen't work on child page's preview page
 
 
+[2024/02/19]
+1. leader - enhancements, warlords select function
+2. leader - bodyguard select function
+3. squad - unit composition select function
+
+
 
 [priority]
 @ simple, normal, advanced version of battle record form (done)
