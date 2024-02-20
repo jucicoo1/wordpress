@@ -1,5 +1,5 @@
 [reference]
-https://wahapedia.ru/wh40k10ed/the-rules/matched-play/
+https://wahapedia.ru/wh40k10ed/the-rules/core-rules/
 https://www.warhammer-community.com/warhammer-40000-downloads/
 https://developer.wordpress.org/reference/classes/wpdb/
 https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php-file
@@ -8,7 +8,7 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 [2024/02/06]
 1. bug report page add (done)
-2. drop down menu add (done)
+2. drop down menu add (done)    
         - specify each pages (e.g. army list)
 3. rearrange menu (done)
 
@@ -117,6 +117,12 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 # document load funcs are not able to access elements generated after page load.
 
 
+
+[2024/02/20]
+1. unit roster table design reset.(done)
+2. add toggle area under unit's name for unit detail adjustment.(done)
+3. build unit roster detail ajax function 
+4. data insert (enhancements for test) (done)
 
 
 [priority]
