@@ -121,8 +121,19 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 [2024/02/20]
 1. unit roster table design reset.(done)
 2. add toggle area under unit's name for unit detail adjustment.(done)
-3. build unit roster detail ajax function 
+3. build unit roster detail ajax function (done)
 4. data insert (enhancements for test) (done)
+
+
+[2024/02/21]
+1. bodyguard change or cancel function
+2. squad unit composition ajax
+3. unit roster minus ajax
+4. get basic SQL query for massive insert
+
+
+
+
 
 
 [priority]
@@ -142,6 +153,9 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 - private battle record function
 - add self edit button to total score sction
 - add search button for unit roster
+- add tab function to battle report pages
+
+
 
 
 [DB schema]

@@ -1,0 +1,72 @@
+1	1	1	Infantry
+2	1	1	Character
+3	1	1	Grenades
+4	1	1	Imperium
+5	1	1	Tacticus
+6	1	1	Primaris
+7	1	1	Captain
+8	1	1	Gravis
+9	1	1	Phobos
+10	1	1	Terminator
+11	1	1	Jump Pack
+12	1	1	Fly
+13	1	1	Smoke
+14	1	1	Psyker
+15	1	1	Librarian
+16	1	1	Terminator
+17	1	1	Chaplain
+18	1	1	Mounted
+19	1	1	Battleline
+20	1	1	Primaris Ancient
+21	1	1	Centurion
+22	1	1	Vehicle
+23	1	1	Walker
+24	1	1	Dreadnought
+25	1	1	Artillery
+26	1	1	Transport   
+27	1	1	Dedicated Transport
+28	1	1	Aircraft
+29	1	1	Fortification
+30	1	1	Epic Hero
+31	1	1	Chapter Master
+32	1	1	Monster
+33	1	1	Primarch
+34	1	1	Chaos
+35	1	1	War Dog
+36	1	1	Titanic
+37	1	1	Towering
+38	1	1	Abhorrent
+39	1	1	Armiger
+40	1	1	Questoris
+41	1	1	Dominus
+42  1   1   Khorne
+43  1   1   Daemon
+
+44  1   1   Daemon Prince
+45  1   1   Beast
+46  1   1   Officer
+47  1   1   Cadian
+48  1   1   Loyal Protector
+49  1   1   Ogryn
+50  1   1   Regiment
+51  1   1   Platoon
+52  1   1   Squadron
+53  1   1   Militarum Tempestus
+    
+
+
+
+
+
+
+
+
+16	1	1	Terminator Squad
+
+
+militarum = 5
+orks = 18
+
+
+
+
