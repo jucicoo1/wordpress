@@ -125,11 +125,11 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 4. data insert (enhancements for test) (done)
 
 
-[2024/02/21]
-1. bodyguard change or cancel function
+[2024/02/23]
+1. bodyguard change or cancel function (done)
 2. squad unit composition ajax
 3. unit roster minus ajax
-4. get basic SQL query for massive insert
+4. get basic SQL query for massive insert (done)
 
 
 
