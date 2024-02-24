@@ -133,6 +133,9 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 
 
+[2024/02/24]
+1. warlord select function
+
 
 
 
