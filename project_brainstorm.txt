@@ -135,12 +135,22 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 1. warlord select function(done)
 
 [2024/02/26]
-1. unit roster minus ajax
+1. unit roster minus ajax (done)
 2. squad unit composition ajax (done)
 
 
+[2024/02/27]
+1. decide how to desolve rounds data on view page
+2. Finish 'normal' format battle report
 
 
+
+[2024/02/28]
+1. write datasheet data insert chart post
+
+[2024/02/29]
+1. battle report design fix ( tab style page)
+2. unit roster lining between leader logic add
 
 
 [priority]
