@@ -136,7 +136,7 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 [2024/02/26]
 1. unit roster minus ajax
-2. squad unit composition ajax
+2. squad unit composition ajax (done)
 
 
 
