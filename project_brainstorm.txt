@@ -131,10 +131,14 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 3. unit roster minus ajax
 4. get basic SQL query for massive insert (done)
 
-
-
 [2024/02/24]
-1. warlord select function
+1. warlord select function(done)
+
+[2024/02/26]
+1. unit roster minus ajax
+2. squad unit composition ajax
+
+
 
 
 
