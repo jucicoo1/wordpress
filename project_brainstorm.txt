@@ -140,8 +140,10 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 
 [2024/02/27]
-1. decide how to desolve rounds data on view page
-2. Finish 'normal' format battle report
+1. decide how to desolve rounds data on view page (done)
+        -> AR1, DR1, AR1_Unit, AR1_scmi1
+2. Add link to battle list page (done)
+3. Finish 'normal' format battle report
 
 
 
