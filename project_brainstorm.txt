@@ -143,16 +143,16 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 1. decide how to desolve rounds data on view page (done)
         -> AR1, DR1, AR1_Unit, AR1_scmi1
 2. Add link to battle list page (done)
-3. Finish 'normal' format battle report
-
+3. make battle report edit page (done)
+4. Finish 'normal' format battle report
+5. battle report design fix ( tab style page) (done)
 
 
 [2024/02/28]
 1. write datasheet data insert chart post
 
 [2024/02/29]
-1. battle report design fix ( tab style page)
-2. unit roster lining between leader logic add
+1. unit roster lining between leader logic add
 
 
 [priority]
