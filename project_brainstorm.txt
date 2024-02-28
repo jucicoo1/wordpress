@@ -144,12 +144,15 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
         -> AR1, DR1, AR1_Unit, AR1_scmi1
 2. Add link to battle list page (done)
 3. make battle report edit page (done)
-4. Finish 'normal' format battle report
+4. Finish 'normal' format battle report (done)
 5. battle report design fix ( tab style page) (done)
 
 
 [2024/02/28]
 1. write datasheet data insert chart post
+2. battle report player section mobile optimize (done)
+3. make insert or update submit function on battle report page (done)
+4. battle report view page complete
 
 [2024/02/29]
 1. unit roster lining between leader logic add
