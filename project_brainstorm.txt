@@ -149,33 +149,45 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 
 [2024/02/28]
-1. write datasheet data insert chart post
+1. write datasheet data insert chart post (done)
 2. battle report player section mobile optimize (done)
 3. make insert or update submit function on battle report page (done)
-4. battle report view page complete
+4. battle report view page complete (done)
 
 [2024/02/29]
 1. unit roster lining between leader logic add
+2. battle report faction select bug fix (done)
+3. Write post on Reddit (done)
+4. Write Dev note for upcoming features (done)
 
 
 [priority]
 @ simple, normal, advanced version of battle record form (done)
-@ mission rule(secondary, primary) apply logic
-@ 'about this website' page
+@ mission rule(secondary, primary) apply logic (done)
+@ 'about this website' page (maybe not)
+# upload custom battle image feature for battle report page
+# cancel button on unit roster page (priority)
+# upload faction datasheet
+# make better looking battle report list (priority)
+# Add gambit option to battle report (priority)
+# private battle record feature 
+# add search button for unit roster page
+# auto submit feature for battle report page
+# customizing squad name
 
 
 [work to do later]
 - disable swiper after selection (done)
-- scroll move to detachment after faction selection
+- scroll move to detachment after faction selection (done)
 - add temporary save function to unit roster page (cancel)
-- my account page layout
+- my account page layout (done)
 - make cancel button on new army page
 - mistake proof mission applying
 - move total score input to center (done)
-- private battle record function
+- private battle record function 
 - add self edit button to total score sction
 - add search button for unit roster
-- add tab function to battle report pages
+- add tab function to battle report pages (done)
 
 
 
