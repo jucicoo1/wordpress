@@ -161,6 +161,11 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 4. Write Dev note for upcoming features (done)
 
 
+[2024/03/01]
+1. write SQL insert file 
+2. insert datasheet data to db
+
+
 [priority]
 @ simple, normal, advanced version of battle record form (done)
 @ mission rule(secondary, primary) apply logic (done)
