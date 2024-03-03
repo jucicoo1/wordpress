@@ -7,7 +7,7 @@
 7	1	1	Captain
 8	1	1	Gravis
 9	1	1	Phobos
-10	1	1	Terminator
+10	1	1	Lieutenit
 11	1	1	Jump Pack
 12	1	1	Fly
 13	1	1	Smoke
@@ -61,6 +61,11 @@
 59  1   1   Mega Armour
 60  1   1   Painboy
 61  1   1   Mega Armour
+
+62  1   1   Deathwing
+63  1   1   Ravenwing
+
+64  1   1   Battlesuit
 
 
 
