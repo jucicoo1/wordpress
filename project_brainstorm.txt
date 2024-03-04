@@ -166,6 +166,13 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 2. insert datasheet data to db
 
 
+[2024/03/04]
+1. set basic battle report to 'normal' (done)
+2. set maximum number of choice for secondary mission (done)
+
+
+
+
 [priority]
 @ simple, normal, advanced version of battle record form (done)
 @ mission rule(secondary, primary) apply logic (done)
