@@ -174,8 +174,11 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 
 
 [2024/03/05]
-1. Insert ork, dark angel datasheet sql
+1. Insert ork, dark angel datasheet sql (done)
 2. Unit keyword insert
+
+[2024/03/06]
+1. insert custodeos, t'au datasheet sql (done)
 
 
 [priority]
