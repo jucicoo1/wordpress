@@ -169,8 +169,13 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 [2024/03/04]
 1. set basic battle report to 'normal' (done)
 2. set maximum number of choice for secondary mission (done)
+3. battle size option add to battle report (done)
+4. Add button for first turn (done)
 
 
+[2024/03/05]
+1. Insert ork, dark angel datasheet sql
+2. Unit keyword insert
 
 
 [priority]

@@ -7,7 +7,7 @@
 7	1	1	Captain
 8	1	1	Gravis
 9	1	1	Phobos
-10	1	1	Lieutenit
+10	1	1	Lieutenant
 11	1	1	Jump Pack
 12	1	1	Fly
 13	1	1	Smoke
@@ -66,6 +66,20 @@
 63  1   1   Ravenwing
 
 64  1   1   Battlesuit
+65  1   1   Kroot
+66  1   1   Ethereal
+67  1   1   Markerlight
+68  1   1   Fire Warrior
+69  1   1   Drone
+
+70  1   1   Anathema Psykana
+71  1   1   Rhino
+72  1   1   Shield-Captain
+
+73  1   1   Pack Leader
+74  1   1   Techmarine
+75  1   1   Scout Squad
+
 
 
 
