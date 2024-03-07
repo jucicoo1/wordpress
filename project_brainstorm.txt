@@ -180,6 +180,10 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 [2024/03/06]
 1. insert custodeos, t'au datasheet sql (done)
 
+[2024/03/07]
+1. Unit keyword insert
+2. Map feature experiment
+
 
 [priority]
 @ simple, normal, advanced version of battle record form (done)
