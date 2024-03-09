@@ -51,31 +51,25 @@
 51  1   1   Platoon
 52  1   1   Squadron
 53  1   1   Militarum Tempestus
-    
 54  1   1   Sanguinary Priest
 55  1   1   Sanguinary Guard
-
 56  1   1   Mob
 57  1   1   Beast Snagg
 58  1   1   Warboss
 59  1   1   Mega Armour
 60  1   1   Painboy
-61  1   1   Mega Armour
-
+61  1   1   Mega Armour <<< check
 62  1   1   Deathwing
 63  1   1   Ravenwing
-
 64  1   1   Battlesuit
 65  1   1   Kroot
 66  1   1   Ethereal
 67  1   1   Markerlight
 68  1   1   Fire Warrior
 69  1   1   Drone
-
 70  1   1   Anathema Psykana
 71  1   1   Rhino
 72  1   1   Shield-Captain
-
 73  1   1   Pack Leader
 74  1   1   Techmarine
 75  1   1   Scout Squad
