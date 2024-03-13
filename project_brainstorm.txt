@@ -3,7 +3,8 @@ https://wahapedia.ru/wh40k10ed/the-rules/core-rules/
 https://www.warhammer-community.com/warhammer-40000-downloads/
 https://developer.wordpress.org/reference/classes/wpdb/
 https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php-file
-
+https://blog.shalvah.me/posts/learn-svg-by-drawing-an-arrow
+https://gsap.com/community/forums/topic/32632-the-arrow-should-follow-the-mouse-direction-in-container-by-rotating/
 
 
 [2024/02/06]
@@ -193,6 +194,9 @@ https://stackoverflow.com/questions/49672292/wordpress-form-action-functions-php
 [2024/03/12]
 1. Map feature experiment (done)
 
+
+[2024/03/13]
+1. SVG study (done)
 
 
 [priority]
