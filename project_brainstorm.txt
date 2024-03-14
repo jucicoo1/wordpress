@@ -199,6 +199,10 @@ https://gsap.com/community/forums/topic/32632-the-arrow-should-follow-the-mouse-
 1. SVG study (done)
 
 
+[2024/03/14]
+1. Add SVG arrow to map (done)
+
+
 [priority]
 @ simple, normal, advanced version of battle record form (done)
 @ mission rule(secondary, primary) apply logic (done)
