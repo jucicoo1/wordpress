@@ -203,6 +203,11 @@ https://gsap.com/community/forums/topic/32632-the-arrow-should-follow-the-mouse-
 1. Add SVG arrow to map (done)
 
 
+[2024/03/18]
+1. Adjust SVG arrow to map (done)
+2. Figure out how to make 'radar' look good
+
+
 [priority]
 @ simple, normal, advanced version of battle record form (done)
 @ mission rule(secondary, primary) apply logic (done)
