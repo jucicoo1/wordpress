@@ -208,6 +208,10 @@ https://gsap.com/community/forums/topic/32632-the-arrow-should-follow-the-mouse-
 2. Figure out how to make 'radar' look good
 
 
+[2024/03/19]
+1. Generate image where user clicks (done)
+
+
 [priority]
 @ simple, normal, advanced version of battle record form (done)
 @ mission rule(secondary, primary) apply logic (done)
