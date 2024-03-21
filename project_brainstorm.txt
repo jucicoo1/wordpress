@@ -212,6 +212,10 @@ https://gsap.com/community/forums/topic/32632-the-arrow-should-follow-the-mouse-
 1. Generate image where user clicks (done)
 
 
+[2024/03/20]
+1. Add round button (done)
+
+
 [priority]
 @ simple, normal, advanced version of battle record form (done)
 @ mission rule(secondary, primary) apply logic (done)
