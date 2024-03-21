@@ -216,6 +216,11 @@ https://gsap.com/community/forums/topic/32632-the-arrow-should-follow-the-mouse-
 1. Add round button (done)
 
 
+[2024/03/21]
+1. Insert unit coordinance on DB (done)
+2. Write dev note
+
+
 [priority]
 @ simple, normal, advanced version of battle record form (done)
 @ mission rule(secondary, primary) apply logic (done)
