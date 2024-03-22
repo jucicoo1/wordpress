@@ -218,8 +218,13 @@ https://gsap.com/community/forums/topic/32632-the-arrow-should-follow-the-mouse-
 
 [2024/03/21]
 1. Insert unit coordinance on DB (done)
-2. Write dev note
+2. Write dev note (done)
 
+
+[2024/03/22]
+1. Change unit coordinance rule (done)
+2. Add Image size rule 
+# https://www.youtube.com/watch?v=NlccuV2tMmw&ab_channel=JJFerman
 
 [priority]
 @ simple, normal, advanced version of battle record form (done)
