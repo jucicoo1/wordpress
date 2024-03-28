@@ -221,6 +221,11 @@ https://gsap.com/community/forums/topic/32632-the-arrow-should-follow-the-mouse-
 2. Write dev note (done)
 
 
+[2024/03/28]
+1. Update image feature (done)
+2. Build function to draw line between images (done)
+
+
 [2024/03/22]
 1. Change unit coordinance rule (done)
 2. Add Image size rule 
