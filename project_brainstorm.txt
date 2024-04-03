@@ -242,9 +242,10 @@ https://gsap.com/community/forums/topic/32632-the-arrow-should-follow-the-mouse-
 
 
 [2024/04/03]
-1. Differenciate health bar color
-2. Add CSS effect on unit image
-
+1. Differenciate health bar color (Cancel)
+2. Add CSS effect on unit image (Cancel)
+3. Load weapon list by ajax (done)
+4. Add animation to lining  (done)
 
 
 
